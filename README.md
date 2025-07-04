@@ -21,22 +21,11 @@
 **Infrastructure:** VMs · Networking · DNS · Windows/Linux Servers · Nginx
 **DevOps:** Terraform · Kubernetes · Docker · Azure DevOps · Octopus Deploy · GitHub Actions
 **Monitoring:** Grafana · Prometheus
-**Messaging:** Kafka · RabbitMQ · Redis
+**Messaging:** Kafka · RabbitMQ · Redis · Azure Service Bus
 **CI/CD Pipelines for:**
   • Frontend – Angular · React · Next.js
   • Backend – .NET Core · Java Spring Boot
-  • Database – SQL Server (Azure & On‑Prem)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" />
-</p>
+  • Database – SQL Server 
 
 ---
 

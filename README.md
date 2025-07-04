@@ -1,3 +1,57 @@
+# Hi there, I'm Babatunde 👋
+
+🔭 I’m currently working on cloud infrastructure, CI/CD automation, and DevOps practices for scalable systems ☁️🚀
+👯 I’m looking to collaborate on exciting cloud‑native tooling 🤝✨
+🤝 I’m looking for help with scaling distributed systems and improving observability stacks 🧠📈
+🌱 I’m currently learning AI and exploring machine learning for real‑world applications 🌿🤖🧠
+💬 Ask me about Kubernetes, Terraform, Azure DevOps, or how to automate *all the things* 🐳⚙️📡
+⚡ **Fun fact:** Retired amateur footballer ⚽😄
+
+---
+
+## 💼 Past Roles
+
+* Assistant Systems Engineer
+* Tech Support
+* Cloud Engineer
+* DevOps Engineer
+
+## 🛠️ Tools & Technologies
+
+**Infrastructure:** VMs · Networking · DNS · Windows/Linux Servers · Nginx
+**DevOps:** Terraform · Kubernetes · Docker · Azure DevOps · Octopus Deploy · GitHub Actions
+**Monitoring:** Grafana · Prometheus
+**Messaging:** Kafka · RabbitMQ · Redis
+**CI/CD Pipelines for:**
+  • Frontend – Angular · React · Next.js
+  • Backend – .NET Core · Java Spring Boot
+  • Database – SQL Server (Azure & On‑Prem)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+## 🌐 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername\&color=blue)
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tumene) 

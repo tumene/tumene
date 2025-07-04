@@ -1,10 +1,15 @@
 # Hi there, I'm Babatunde 👋
 
 🔭 I’m currently working on cloud infrastructure, CI/CD automation, and DevOps practices for scalable systems ☁️🚀
+
 👯 I’m looking to collaborate on exciting cloud‑native tooling 🤝✨
+
 🤝 I’m looking for help with scaling distributed systems and improving observability stacks 🧠📈
+
 🌱 I’m currently learning AI and exploring machine learning for real‑world applications 🌿🤖🧠
+
 💬 Ask me about Kubernetes, Terraform, Azure DevOps, or how to automate *all the things* 🐳⚙️📡
+
 ⚡ **Fun fact:** Retired amateur footballer ⚽😄
 
 ---
